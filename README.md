@@ -1,4 +1,4 @@
-# airfryer-bot
+# Air Fryer Bot
 Discord bot that deep fries images and videos
 
 Requires ffmpeg installed in the system (available in the PATH).
